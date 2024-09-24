@@ -4,4 +4,10 @@
 
 Add ```src/main/resources/application.properties``` from example.
 
+## Technologies used:
+- Java Spring
+- MySQL
+- WebSocket
+- JWT
+
 > Marko Jovicic, markojovicic.rs@gmail.com
