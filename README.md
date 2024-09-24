@@ -4,4 +4,4 @@
 
 Add ```src/main/resources/application.properties``` from example.
 
-Marko Jovicic, RN 17/2020
+> Marko Jovicic, markojovicic.rs@gmail.com
